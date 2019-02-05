@@ -1,5 +1,5 @@
 # docker-php-apache-starter
-This is a simple docker image with apache2 and php7.2.10. It is designed to make development for php projects really easy
+This is a simple docker image with apache2, php7.2.10 and mysql5.6. It is designed to make development for php projects really easy
 
 
 ## What you will need:
