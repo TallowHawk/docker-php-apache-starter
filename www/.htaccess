@@ -1,0 +1,5 @@
+SetEnv DB web
+SetEnv DB_SERVER database
+SetEnv DB_PASSWORD root
+SetEnv DB_USER root
+SetEnv DB_PORT 3306
