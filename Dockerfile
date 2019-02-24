@@ -3,7 +3,8 @@ FROM php:7.2.10-apache
 RUN apt-get update && apt-get -y upgrade
 
 RUN docker-php-ext-install \
-    mysqli
+    mysqli \
+    pdo_mysql
 
 RUN a2enmod rewrite
 
